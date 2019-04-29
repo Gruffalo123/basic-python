@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65b17074-f73c-4354-a9e0-81a39a39f193" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/循环练习/6（综合-用户登录）.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/循环练习/7,求和1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/循环练习/8-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/循环练习/8-2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,11 +15,15 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/basic_review$3.coverage" NAME="3（输出奇数） Coverage Results" MODIFIED="1556520275881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/循环练习" />
+    <SUITE FILE_PATH="coverage/basic_review$6.coverage" NAME="6登录升级 Coverage Results" MODIFIED="1556525410161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/循环练习" />
     <SUITE FILE_PATH="coverage/basic_review$6_.coverage" NAME="6（综合-用户登录） Coverage Results" MODIFIED="1556521111249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/循环练习" />
+    <SUITE FILE_PATH="coverage/basic_review$8_1.coverage" NAME="8-1 Coverage Results" MODIFIED="1556525212082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/循环练习" />
     <SUITE FILE_PATH="coverage/basic_review$5.coverage" NAME="5（求和） Coverage Results" MODIFIED="1556520517118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/循环练习" />
+    <SUITE FILE_PATH="coverage/basic_review$8_2.coverage" NAME="8-2 Coverage Results" MODIFIED="1556525263525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/循环练习" />
     <SUITE FILE_PATH="coverage/basic_review$4.coverage" NAME="4（输出偶数） Coverage Results" MODIFIED="1556520367162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/循环练习" />
-    <SUITE FILE_PATH="coverage/basic_review$1.coverage" NAME="1 Coverage Results" MODIFIED="1556519937157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/循环练习" />
     <SUITE FILE_PATH="coverage/basic_review$2.coverage" NAME="2 Coverage Results" MODIFIED="1556520071838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/循环练习" />
+    <SUITE FILE_PATH="coverage/basic_review$1.coverage" NAME="1（循环输出） Coverage Results" MODIFIED="1556523888810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/循环练习" />
+    <SUITE FILE_PATH="coverage/basic_review$7_1.coverage" NAME="7,求和1 Coverage Results" MODIFIED="1556525120835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/循环练习" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="155632816">
@@ -29,24 +35,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="6" />
+          <entry key="py" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="6" />
+          <entry key="Python" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="19" />
-          <entry key="py" value="658" />
+          <entry key="py" value="678" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="19" />
-          <entry key="Python" value="658" />
+          <entry key="Python" value="678" />
         </counts>
       </usages-collector>
     </session>
@@ -56,8 +62,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/循环练习/1（循环输出）.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+            <state>
+              <caret selection-end-line="8" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/循环练习/7,求和1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/循环练习/8-1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/循环练习/8-2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -89,7 +122,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/循环练习/6（综合-用户登录）.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="351">
@@ -129,6 +162,10 @@
         <option value="$PROJECT_DIR$/循环练习/4（输出偶数）.py" />
         <option value="$PROJECT_DIR$/循环练习/5（求和）.py" />
         <option value="$PROJECT_DIR$/循环练习/6（综合-用户登录）.py" />
+        <option value="$PROJECT_DIR$/循环练习/1（循环输出）.py" />
+        <option value="$PROJECT_DIR$/循环练习/7,求和1.py" />
+        <option value="$PROJECT_DIR$/循环练习/8-1.py" />
+        <option value="$PROJECT_DIR$/循环练习/8-2.py" />
       </list>
     </option>
   </component>
@@ -139,7 +176,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="258" />
+    <option name="x" value="252" />
+    <option name="y" value="5" />
     <option name="width" value="1329" />
     <option name="height" value="761" />
   </component>
@@ -158,6 +196,11 @@
             <path>
               <item name="basic_review" type="b2602c69:ProjectViewProjectNode" />
               <item name="basic_review" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic_review" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic_review" type="462c0819:PsiDirectoryNode" />
+              <item name="循环练习" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -184,8 +227,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.6（综合-用户登录）">
-    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.6登录升级">
+    <configuration name="1（循环输出）" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="basic_review" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -198,7 +241,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="F:\python_project\basic_review\循环练习\2（求和）.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/循环练习/1（循环输出）.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,7 +250,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3（输出奇数）" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="6登录升级" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="basic_review" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -220,7 +263,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/循环练习/3（输出奇数）.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/循环练习/6登录升级.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,7 +272,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4（输出偶数）" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="7,求和1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="basic_review" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -242,7 +285,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/循环练习/4（输出偶数）.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/循环练习/7,求和1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -251,7 +294,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5（求和）" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="8-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="basic_review" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -264,7 +307,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/循环练习/5（求和）.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/循环练习/8-1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -273,7 +316,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6（综合-用户登录）" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="8-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="basic_review" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -286,7 +329,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/循环练习/6（综合-用户登录）.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/循环练习/8-2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -296,19 +339,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.2" />
-      <item itemvalue="Python.3（输出奇数）" />
-      <item itemvalue="Python.4（输出偶数）" />
-      <item itemvalue="Python.5（求和）" />
-      <item itemvalue="Python.6（综合-用户登录）" />
+      <item itemvalue="Python.1（循环输出）" />
+      <item itemvalue="Python.7,求和1" />
+      <item itemvalue="Python.8-1" />
+      <item itemvalue="Python.8-2" />
+      <item itemvalue="Python.6登录升级" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.6（综合-用户登录）" />
-        <item itemvalue="Python.5（求和）" />
-        <item itemvalue="Python.4（输出偶数）" />
-        <item itemvalue="Python.3（输出奇数）" />
-        <item itemvalue="Python.2" />
+        <item itemvalue="Python.6登录升级" />
+        <item itemvalue="Python.8-2" />
+        <item itemvalue="Python.8-1" />
+        <item itemvalue="Python.7,求和1" />
+        <item itemvalue="Python.1（循环输出）" />
       </list>
     </recent_temporary>
   </component>
@@ -326,10 +369,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="258" y="0" width="1329" height="761" extended-state="0" />
+    <frame x="317" y="58" width="1329" height="761" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980299" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980299" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
@@ -339,7 +383,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3290735" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3290735" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.399361" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -362,13 +406,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
           <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/循环练习/1（循环输出）.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -397,6 +434,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
           <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/循环练习/1（循环输出）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/循环练习/7,求和1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/循环练习/8-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/循环练习/8-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
         </state>
       </provider>
     </entry>
